@@ -1,0 +1,43 @@
+body{
+    background:rgb(241, 241, 219);
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(80,9,121,1) 35%, rgba(29,0,255,0.9752275910364145) 100%);
+}
+
+#paragraph-result{
+    margin-top: 50px;
+}
+
+input{
+    width: 200px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+}
+
+#programa{
+    width: 300px;
+    height: 350px;
+    border: 2px solid rgb(255, 0, 234);
+    text-align: center;
+    margin: auto;
+    margin-top:150px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,90,1) 35%, rgba(132,0,255,0.9752275910364145) 100%);
+    color: white;
+}
+
+#button-calculate-imc{
+    border: solid 3px rgb(255, 0, 234);
+    border-radius: 10px;
+    padding: 5px 5px 5px 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background: rebeccapurple;
+}
